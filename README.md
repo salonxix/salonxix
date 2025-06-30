@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saloniiiiiiiiiiiiiiiiiiiiiiiii</h1>
 <h3 align="center">Building the web while avoiding adulthood.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salonxix" alt="salonxix" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=salonxix&theme=dracula&title=Stars,Followers,Commit,PullRequest,Issues,Repositories" alt="GitHub Profile Trophy" />
+</p>
 
 - 🌱 I’m currently learning **figma,AWS,NODEJS**
 
