@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Saloniiiiiiiiiiiiiiiiiiiiiiiii</h1>
 <h3 align="center">Building the web while avoiding adulthood.</h3>
+<h2 align="center">🏆 My GitHub Trophy Case</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salonxix&theme=monokai&rank=SSS,SS,S" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=salonxix&theme=gruvbox&no-frame=true&row=1&column=6" alt="trophies" />
 </p>
+
+
 
 - 🌱 I’m currently learning **figma,AWS,NODEJS**
 
