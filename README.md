@@ -2,7 +2,7 @@
 <h3 align="center">Building the web while avoiding adulthood.</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salonxix&theme=dracula&title=Stars,Followers,Commit,PullRequest,Issues,Repositories" alt="GitHub Profile Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=salonxix&theme=monokai&rank=SSS,SS,S" alt="GitHub Trophies" />
 </p>
 
 - 🌱 I’m currently learning **figma,AWS,NODEJS**
