@@ -70,17 +70,7 @@ class Saloni:
 <tr>
 <td align="center" bgcolor="#000D2E" style="padding:24px; border-radius:12px;">
 
-<br/>
 
-*✦ " She remembered who she was — and the game changed. " ✦*
-
-**— Lalah Delia**
-
-<br/>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
