@@ -1,134 +1,158 @@
-<!-- ================= HEADER ================= -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a062f,100:2a0a55&height=220&section=header&text=Saloni%20Kumari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+```
+███████╗ █████╗ ██╗      ██████╗ ███╗   ██╗██╗
+██╔════╝██╔══██╗██║     ██╔═══██╗████╗  ██║██║
+███████╗███████║██║     ██║   ██║██╔██╗ ██║██║
+╚════██║██╔══██║██║     ██║   ██║██║╚██╗██║██║
+███████║██║  ██║███████╗╚██████╔╝██║ ╚████║██║
+╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝
+```
 
-<h1 align="center">Saloni Kumari</h1>
-<h3 align="center">Product-Oriented Engineer • AI Systems Builder • Future Founder</h3>
+### ✦ building things that actually work · breaking things to understand them ✦
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/saloni-kumari-82b03a2a9">
-    <img src="https://img.shields.io/badge/LinkedIn-1a062f?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=salonxix&style=for-the-badge&color=1a062f"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%94%A5;Turning+Ideas+Into+Reality+%E2%9C%A8)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-# 👩‍💻 About Me
+<img align="right" alt="coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+## 👩‍💻 About Me
 
 ```yaml
-Role Focus: Product Management + AI Systems
-Education: B.Tech CSE
-Core Strength: Turning user problems into scalable tech solutions
-Current Goal: 10+ LPA Placement & Building My Own Startup
+name: Saloni Kumari
+role: Full Stack Developer
+location: India 🇮🇳
+currently_learning:
+  - Cloud Architecture (AWS · Azure · GCP)
+  - DevOps & Containerization
+  - Data Science & ML
+passions:
+  - Building scalable web apps
+  - Solving real-world problems with code
+  - Clean, purposeful design
+fun_fact: >
+  I debug with console.log and
+  I'm not ashamed of it 😤
 ```
 
-I approach engineering with a **product-first mindset**.
-
-Instead of just building features, I focus on:
-- 🎯 User pain points
-- 📊 Measurable impact
-- ⚙️ Scalable architecture
-- 🚀 Speed of execution
+<br clear="right"/>
 
 ---
 
-# 🚀 Flagship Product
+## 🌐 Connect With Me
 
-## 🧠 AI-Powered Email Productivity Platform
+<div align="center">
 
-**Problem Identified:**  
-Email overload causes missed tasks, burnout, and low productivity.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect!-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-kumari-82b03a2a9)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salonxix)
+[![Profile Views](https://komarev.com/ghpvc/?username=salonxix&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/salonxix)
 
-**Solution Built:**  
-An AI-driven system that prioritizes emails, extracts tasks, and provides burnout analytics.
-
-### 🛠 Product Thinking Applied
-
-- Defined user personas (Students, Founders, Professionals)
-- Identified workflow bottlenecks
-- Designed priority scoring logic
-- Created structured UI for decision-making
-- Focused on clarity over feature clutter
-
-### 🔥 Core Features
-
-- 📬 AI Priority Score
-- 📌 Automatic Task Extraction
-- 📊 Burnout Dashboard
-- 🧭 Command Center View
-- 🔔 Smart Alerts System
-
-### 🧩 Tech Stack
-
-Next.js • TypeScript • Node.js • AI APIs • Gmail API • Tailwind • Cloud Deployment
+</div>
 
 ---
 
-# 🧠 My Product Framework
+## 💻 Tech Stack
 
-When building, I follow:
+<div align="center">
 
-1. Identify real problem
-2. Validate impact
-3. Define MVP
-4. Ship fast
-5. Measure & iterate
+**Languages**
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-# 💻 Technical Strength
+**Frontend & Backend**
 
-## Languages
-JavaScript • TypeScript • Python • Java • C
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-## Frontend
-React • Next.js • Tailwind
+**Cloud & DevOps**
 
-## Backend
-Node.js • Firebase • REST APIs
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-## Cloud & DevOps
-AWS • Azure • Google Cloud • Docker • Git
+**Databases**
 
-## Databases
-MySQL • PostgreSQL
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
----
+**Data & Design**
 
-# 📊 GitHub Metrics
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salonxix&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=salonxix&theme=midnight-purple&hide_border=true" height="165"/>
-</p>
+**Tools**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonxix&theme=midnight-purple&hide_border=true&layout=compact" height="150"/>
-</p>
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-# 📌 Current Focus
-
-- 📈 Product Strategy & Execution
-- 🧠 AI-Driven System Design
-- 📊 Data-backed Decision Making
-- 🚀 Startup-Ready Engineering
-
----
-
-# 💬 What Defines Me
-
-```text
-I don’t just code features.
-I design solutions.
-```
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a0a55,100:1a062f&height=120&section=footer"/>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=salonxix&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonxix&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=salonxix&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=salonxix&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salonxix/salonxix/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salonxix/salonxix/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/salonxix/salonxix/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+*"Code is poetry. Ship it."* ✨
+
+**Thanks for visiting! Drop a ⭐ if you like what you see 😊**
+
+</div>
