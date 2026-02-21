@@ -1,114 +1,48 @@
-<!-- Header -->
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║        hey, i'm saloni — building things that matter      ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0D1B6E,80:1A237E,100:000000&height=200&section=header&text=Saloni%20Kumari&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20AI%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cloud+%26+AI+Enthusiast;Turning+ideas+into+reality+%E2%9C%A6)](https://git.io/typing-svg)
+<br/>
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=building+things+that+matter+%E2%9C%A6;full+stack+%2B+cloud+%2B+data+%2B+design;always+shipping.+always+learning.+%F0%9F%94%AE)](https://git.io/typing-svg)
 
----
-
-<!-- Socials -->
-<div align="center">
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-kumari-82b03a2a9)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salonxix)
-[![Profile Views](https://komarev.com/ghpvc/?username=salonxix&style=for-the-badge&color=9D4EDD&label=PROFILE+VIEWS)](https://github.com/salonxix)
+[![Profile Views](https://komarev.com/ghpvc/?username=salonxix&style=for-the-badge&color=0D1B6E&label=PROFILE+VIEWS)](https://github.com/salonxix)
 
 </div>
 
----
-
-<!-- About -->
-```python
-class Saloni:
-    def __init__(self):
-        self.languages  = ["Python", "JavaScript", "TypeScript", "Java", "C", "PHP"]
-        self.cloud      = ["AWS", "Azure", "Google Cloud", "Firebase", "Vercel"]
-        self.frontend   = ["React", "Next.js", "WordPress"]
-        self.backend    = ["Node.js"]
-        self.databases  = ["MySQL", "PostgreSQL", "Firebase"]
-        self.tools      = ["Docker", "Git", "GitHub"]
-        self.data       = ["NumPy", "Pandas", "Plotly", "Matplotlib"]
-        self.design     = ["Adobe", "Canva"]
-        self.currently  = "crafting something cool 🔮"
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something great.")
-
-me = Saloni()
-me.say_hi()
-```
-
----
-
-<!-- Tech Stack -->
-<details>
-<summary><b>⚡ Tech Stack</b></summary>
 <br/>
 
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
-
-**Frontend & Backend**
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34)
-
-**Data & Design**
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-
-**Version Control**
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-
-</details>
-
 ---
 
-<!-- GitHub Stats -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=salonxix&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9" width="49%"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=salonxix&theme=dark&hide_border=true&background=0d0d0d&stroke=9D4EDD&ring=9D4EDD&fire=ff6b6b&currStreakLabel=9D4EDD" width="49%"/>
+<table border="0" cellspacing="0" cellpadding="20">
+<tr>
+<td width="58%" valign="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonxix&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d0d0d&title_color=9D4EDD&text_color=c9d1d9" width="40%"/>
+```python
+# ✦ saloni.py
+
+class Saloni:
+    name      = "Saloni Kumari"
+    role      = "Full Stack Dev · Cloud · AI"
+    currently = "crafting something cool 🔮"
+    open_to   = "collabs & cool projects 🌊"
+    fun_fact  = "I debug in dark mode with lo-fi playing 🎧"
+```
+
+</td>
+<td width="42%" align="center" valign="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230px"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -116,8 +50,179 @@ me.say_hi()
 
 <div align="center">
 
-```
-/* always shipping. always learning. */
-```
+### 🌊 a little about me
+
+| | |
+|:---|:---|
+| 🔥 **builder** | i don't just watch tutorials — i ship things |
+| 🎨 **design-obsessed** | if it doesn't look premium, it's not done |
+| 🧠 **founder mindset** | i think in systems, not assignments |
+| ✅ **growth > comfort** | correct me. don't validate me. |
+| 🚀 **consistent** | git conflict? auth error? i stay and debug |
 
 </div>
+
+---
+
+<div align="center">
+
+<table border="0" width="80%">
+<tr>
+<td align="center" bgcolor="#000D2E" style="padding:24px; border-radius:12px;">
+
+<br/>
+
+*✦ " She remembered who she was — and the game changed. " ✦*
+
+**— Lalah Delia**
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table border="0" width="80%">
+<tr>
+<td align="center" bgcolor="#000D2E" style="padding:24px; border-radius:12px;">
+
+<br/>
+
+```
+  ┌──────────────────────────────────────────────────────────────┐
+  │                                                              │
+  │   " The people who are crazy enough to think they can        │
+  │     change the world are the ones who do. "                  │
+  │                                                              │
+  │                                        — Steve Jobs          │
+  │                                                              │
+  └──────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## `$ ls tech-stack/`
+
+<div align="center">
+
+### ◈ Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### ◈ Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ◈ Backend & APIs
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### ◈ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### ◈ Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+### ◈ Data Science & ML
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+### ◈ Design & Tools
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+## `$ git log --stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=salonxix&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&bg_color=000D2E&title_color=00E5FF&icon_color=00E5FF&text_color=E0E0E0&ring_color=0D1B6E&border_radius=10" width="48%"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=salonxix&theme=dark&hide_border=true&background=000D2E&stroke=0D1B6E&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E0E0E0&dates=888" width="48%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonxix&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=000D2E&title_color=00E5FF&text_color=E0E0E0&border_radius=10" width="40%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salonxix&bg_color=000D2E&color=00E5FF&line=0D1B6E&point=00E5FF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<table border="0" width="80%">
+<tr>
+<td align="center" bgcolor="#000D2E" style="padding:24px; border-radius:12px;">
+
+<br/>
+
+```
+  ┌──────────────────────────────────────────────────────────────┐
+  │                                                              │
+  │   " Leaving something you built feels like                   │
+  │     abandoning your own kid. "                               │
+  │                                                              │
+  │                          — every developer ever  🌊          │
+  │                                                              │
+  └──────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0D1B6E,80:1A237E,100:000000&height=120&section=footer&animation=fadeIn" width="100%"/>
