@@ -1,35 +1,129 @@
-<h1 align="center">Hi 👋, I'm Saloniiiiiiiiiiiiiiiiiiiiiiiii</h1>
-<h3 align="center">Building the web while avoiding adulthood.</h3>
-<h2 align="center">🏆 My GitHub Trophy Case</h2>
+<!-- ======================= HEADER ======================= -->
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salonxix&theme=gruvbox&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a062f,100:2a0a55&height=220&section=header&text=Saloni%20Kumari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-- 🌱 I’m currently learning **figma,AWS,NODEJS**
-
-- 📫 How to reach me **salonik1005@gmail.com**
-
-- ⚡ Fun fact **Once debugged a bug in my dream.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saloni-kumari-82b03a2a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saloni-kumari-82b03a2a9/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-<!-- GitHub Dashboard -->
-<h2 align="center">📊 My GitHub Dashboard</h2>
+<h1 align="center">💜 Saloni Kumari</h1>
+<h3 align="center">AI Builder • Future Founder • B.Tech CSE</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salonxix&show_icons=true&theme=dracula" width="400"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=salonxix&theme=dracula" width="400"/>
+  <a href="https://www.linkedin.com/in/saloni-kumari-82b03a2a9">
+    <img src="https://img.shields.io/badge/LinkedIn-1a062f?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=salonxix&style=for-the-badge&color=1a062f"/>
+</p>
+
+---
+
+## 👩‍💻 About Me  
+
+```yaml
+Name: Saloni Kumari
+Education: B.Tech CSE (4th Semester)
+Goal: 10+ LPA Placement + Startup
+Focus: AI Systems, Product Thinking, Scalable SaaS
+Current Build: Smart AI Email Productivity Platform
+```
+
+🚀 I don’t just write code — I build systems.  
+🧠 Strong interest in AI-driven productivity tools.  
+🎯 Preparing for Product roles & high-growth startups.  
+💡 Passionate about building meaningful tech.
+
+---
+
+# 🚀 Featured Project
+
+## 🧠 AI-Powered Email Productivity System
+
+> Smart inbox prioritization + task extraction + burnout analytics.
+
+**Tech Used:**
+- Next.js
+- TypeScript
+- Node.js
+- Gmail API
+- AI Integration
+- Tailwind CSS
+- Cloud Deployment
+
+**Key Features:**
+- 📬 Priority Score System
+- ⚡ Task Extraction from Emails
+- 📊 Burnout Detection Dashboard
+- 🔔 Smart Notification System
+- 🧩 Command Center UI
+
+---
+
+# 💻 Tech Stack
+
+## 🧠 Languages
+![JavaScript](https://img.shields.io/badge/javascript-1a062f?style=for-the-badge&logo=javascript&logoColor=yellow)
+![TypeScript](https://img.shields.io/badge/typescript-1a062f?style=for-the-badge&logo=typescript&logoColor=blue)
+![Python](https://img.shields.io/badge/python-1a062f?style=for-the-badge&logo=python&logoColor=yellow)
+![Java](https://img.shields.io/badge/java-1a062f?style=for-the-badge&logo=openjdk&logoColor=orange)
+![C](https://img.shields.io/badge/c-1a062f?style=for-the-badge&logo=c&logoColor=blue)
+
+---
+
+## ⚛️ Frontend & Backend
+![React](https://img.shields.io/badge/react-1a062f?style=for-the-badge&logo=react&logoColor=cyan)
+![Next JS](https://img.shields.io/badge/next.js-1a062f?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-1a062f?style=for-the-badge&logo=node.js&logoColor=green)
+![Firebase](https://img.shields.io/badge/firebase-1a062f?style=for-the-badge&logo=firebase&logoColor=yellow)
+
+---
+
+## ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-1a062f?style=for-the-badge&logo=amazon-aws&logoColor=orange)
+![Azure](https://img.shields.io/badge/Azure-1a062f?style=for-the-badge&logo=microsoftazure&logoColor=blue)
+![Google Cloud](https://img.shields.io/badge/GCP-1a062f?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1a062f?style=for-the-badge&logo=docker&logoColor=blue)
+![Git](https://img.shields.io/badge/Git-1a062f?style=for-the-badge&logo=git&logoColor=orange)
+![GitHub](https://img.shields.io/badge/GitHub-1a062f?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🗄️ Databases
+![MySQL](https://img.shields.io/badge/mysql-1a062f?style=for-the-badge&logo=mysql&logoColor=blue)
+![PostgreSQL](https://img.shields.io/badge/postgresql-1a062f?style=for-the-badge&logo=postgresql&logoColor=lightblue)
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salonxix&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=salonxix&theme=midnight-purple&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonxix&layout=compact&theme=dracula" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonxix&theme=midnight-purple&hide_border=true&layout=compact" height="150"/>
 </p>
 
+---
+
+# 📌 Current Focus
+
+- 🔥 Building AI-first SaaS
+- 📚 Strengthening DSA & System Design
+- 🎯 Preparing for 10+ LPA roles
+- 💜 Designing premium UI experiences
+
+---
+
+# 🧩 Philosophy
+
+```text
+Think Like a Founder.
+Build Like an Engineer.
+Ship Like a Startup.
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a0a55,100:1a062f&height=120&section=footer"/>
+</p>
