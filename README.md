@@ -20,10 +20,7 @@
 
 ```yaml
 Name: Saloni Kumari
-Education: B.Tech CSE (4th Semester)
-Goal: 10+ LPA Placement + Startup
-Focus: AI Systems, Product Thinking, Scalable SaaS
-Current Build: Smart AI Email Productivity Platform
+Education: B.Tech CSE (6th Semester)
 ```
 
 🚀 I don’t just write code — I build systems.  
