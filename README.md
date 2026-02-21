@@ -1,11 +1,11 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a062f,100:2a0a55&height=220&section=header&text=Saloni%20Kumari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h1 align="center">💜 Saloni Kumari</h1>
-<h3 align="center">AI Builder • Future Founder • B.Tech CSE</h3>
+<h1 align="center">Saloni Kumari</h1>
+<h3 align="center">Product-Oriented Engineer • AI Systems Builder • Future Founder</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saloni-kumari-82b03a2a9">
@@ -16,80 +16,89 @@
 
 ---
 
-## 👩‍💻 About Me  
+# 👩‍💻 About Me
 
 ```yaml
-Name: Saloni Kumari
-Education: B.Tech CSE (6th Semester)
+Role Focus: Product Management + AI Systems
+Education: B.Tech CSE
+Core Strength: Turning user problems into scalable tech solutions
+Current Goal: 10+ LPA Placement & Building My Own Startup
 ```
 
-🚀 I don’t just write code — I build systems.  
-🧠 Strong interest in AI-driven productivity tools.  
-🎯 Preparing for Product roles & high-growth startups.  
-💡 Passionate about building meaningful tech.
+I approach engineering with a **product-first mindset**.
+
+Instead of just building features, I focus on:
+- 🎯 User pain points
+- 📊 Measurable impact
+- ⚙️ Scalable architecture
+- 🚀 Speed of execution
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Flagship Product
 
-## 🧠 AI-Powered Email Productivity System
+## 🧠 AI-Powered Email Productivity Platform
 
-> Smart inbox prioritization + task extraction + burnout analytics.
+**Problem Identified:**  
+Email overload causes missed tasks, burnout, and low productivity.
 
-**Tech Used:**
-- Next.js
-- TypeScript
-- Node.js
-- Gmail API
-- AI Integration
-- Tailwind CSS
-- Cloud Deployment
+**Solution Built:**  
+An AI-driven system that prioritizes emails, extracts tasks, and provides burnout analytics.
 
-**Key Features:**
-- 📬 Priority Score System
-- ⚡ Task Extraction from Emails
-- 📊 Burnout Detection Dashboard
-- 🔔 Smart Notification System
-- 🧩 Command Center UI
+### 🛠 Product Thinking Applied
 
----
+- Defined user personas (Students, Founders, Professionals)
+- Identified workflow bottlenecks
+- Designed priority scoring logic
+- Created structured UI for decision-making
+- Focused on clarity over feature clutter
 
-# 💻 Tech Stack
+### 🔥 Core Features
 
-## 🧠 Languages
-![JavaScript](https://img.shields.io/badge/javascript-1a062f?style=for-the-badge&logo=javascript&logoColor=yellow)
-![TypeScript](https://img.shields.io/badge/typescript-1a062f?style=for-the-badge&logo=typescript&logoColor=blue)
-![Python](https://img.shields.io/badge/python-1a062f?style=for-the-badge&logo=python&logoColor=yellow)
-![Java](https://img.shields.io/badge/java-1a062f?style=for-the-badge&logo=openjdk&logoColor=orange)
-![C](https://img.shields.io/badge/c-1a062f?style=for-the-badge&logo=c&logoColor=blue)
+- 📬 AI Priority Score
+- 📌 Automatic Task Extraction
+- 📊 Burnout Dashboard
+- 🧭 Command Center View
+- 🔔 Smart Alerts System
+
+### 🧩 Tech Stack
+
+Next.js • TypeScript • Node.js • AI APIs • Gmail API • Tailwind • Cloud Deployment
 
 ---
 
-## ⚛️ Frontend & Backend
-![React](https://img.shields.io/badge/react-1a062f?style=for-the-badge&logo=react&logoColor=cyan)
-![Next JS](https://img.shields.io/badge/next.js-1a062f?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-1a062f?style=for-the-badge&logo=node.js&logoColor=green)
-![Firebase](https://img.shields.io/badge/firebase-1a062f?style=for-the-badge&logo=firebase&logoColor=yellow)
+# 🧠 My Product Framework
+
+When building, I follow:
+
+1. Identify real problem
+2. Validate impact
+3. Define MVP
+4. Ship fast
+5. Measure & iterate
 
 ---
 
-## ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-1a062f?style=for-the-badge&logo=amazon-aws&logoColor=orange)
-![Azure](https://img.shields.io/badge/Azure-1a062f?style=for-the-badge&logo=microsoftazure&logoColor=blue)
-![Google Cloud](https://img.shields.io/badge/GCP-1a062f?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1a062f?style=for-the-badge&logo=docker&logoColor=blue)
-![Git](https://img.shields.io/badge/Git-1a062f?style=for-the-badge&logo=git&logoColor=orange)
-![GitHub](https://img.shields.io/badge/GitHub-1a062f?style=for-the-badge&logo=github&logoColor=white)
+# 💻 Technical Strength
+
+## Languages
+JavaScript • TypeScript • Python • Java • C
+
+## Frontend
+React • Next.js • Tailwind
+
+## Backend
+Node.js • Firebase • REST APIs
+
+## Cloud & DevOps
+AWS • Azure • Google Cloud • Docker • Git
+
+## Databases
+MySQL • PostgreSQL
 
 ---
 
-## 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-1a062f?style=for-the-badge&logo=mysql&logoColor=blue)
-![PostgreSQL](https://img.shields.io/badge/postgresql-1a062f?style=for-the-badge&logo=postgresql&logoColor=lightblue)
-
----
-
-# 📊 GitHub Analytics
+# 📊 GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=salonxix&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
@@ -104,19 +113,18 @@ Education: B.Tech CSE (6th Semester)
 
 # 📌 Current Focus
 
-- 🔥 Building AI-first SaaS
-- 📚 Strengthening DSA & System Design
-- 🎯 Preparing for 10+ LPA roles
-- 💜 Designing premium UI experiences
+- 📈 Product Strategy & Execution
+- 🧠 AI-Driven System Design
+- 📊 Data-backed Decision Making
+- 🚀 Startup-Ready Engineering
 
 ---
 
-# 🧩 Philosophy
+# 💬 What Defines Me
 
 ```text
-Think Like a Founder.
-Build Like an Engineer.
-Ship Like a Startup.
+I don’t just code features.
+I design solutions.
 ```
 
 ---
