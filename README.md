@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0D1B6E,80:1A237E,100:000000&height=200&section=header&text=Saloni%20Kumari&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20%E2%80%A2%20AI%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0D1B6E,80:1A237E,100:000000&height=200&section=header&text=Saloni%20Kumari&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 <table border="0" cellspacing="0" cellpadding="20">
 <tr>
-<td width="58%" valign="center">
+<td width="55%" valign="center">
 
 ```python
 # ✦ saloni.py
@@ -36,15 +36,17 @@ class Saloni:
 ```
 
 </td>
-<td width="42%" align="center" valign="center">
+<td width="45%" align="center" valign="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="280px"/>
 
 </td>
 </tr>
 </table>
 
 </div>
+
+<br/>
 
 ---
 
@@ -66,20 +68,6 @@ class Saloni:
 
 <div align="center">
 
-<table border="0" width="80%">
-<tr>
-<td align="center" bgcolor="#000D2E" style="padding:24px; border-radius:12px;">
-
-
-
-<br/>
-
-<table border="0" width="80%">
-<tr>
-<td align="center" bgcolor="#000D2E" style="padding:24px; border-radius:12px;">
-
-<br/>
-
 ```
   ┌──────────────────────────────────────────────────────────────┐
   │                                                              │
@@ -90,12 +78,6 @@ class Saloni:
   │                                                              │
   └──────────────────────────────────────────────────────────────┘
 ```
-
-<br/>
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -169,16 +151,12 @@ class Saloni:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=salonxix&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&bg_color=000D2E&title_color=00E5FF&icon_color=00E5FF&text_color=E0E0E0&ring_color=0D1B6E&border_radius=10" width="48%"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=salonxix&theme=dark&hide_border=true&background=000D2E&stroke=0D1B6E&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E0E0E0&dates=888" width="48%"/>
+
+<img src="https://streak-stats.demolab.com?user=salonxix&theme=tokyonight&hide_border=true&background=000D2E&stroke=0D1B6E&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E0E0E0&dates=888888" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonxix&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=000D2E&title_color=00E5FF&text_color=E0E0E0&border_radius=10" width="40%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=salonxix&bg_color=000D2E&color=00E5FF&line=0D1B6E&point=00E5FF&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salonxix&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
@@ -186,13 +164,12 @@ class Saloni:
 
 ---
 
-<div align="center">
-
-<table border="0" width="80%">
-<tr>
-<td align="center" bgcolor="#000D2E" style="padding:24px; border-radius:12px;">
 
 <br/>
+
+---
+
+<div align="center">
 
 ```
   ┌──────────────────────────────────────────────────────────────┐
@@ -207,9 +184,7 @@ class Saloni:
 
 <br/>
 
-</td>
-</tr>
-</table>
+*thanks for stopping by ✨ go build something incredible*
 
 </div>
 
